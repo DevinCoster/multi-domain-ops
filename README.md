@@ -2,7 +2,7 @@
 
 A real-time multi-domain military operations simulation tool with an Anduril Lattice-inspired interface. Place forces, configure behaviors, launch simulations, and watch engagements unfold live across air, sea, land, and cyber domains.
 
-![SYNAPSE UI](https://drive.google.com/file/d/1ge_KT7XcMM0cattfQtS_IV3L3RjWLjQs/view?usp=sharing)
+![SYNAPSE UI](https://github.com/DevinCoster/multi-domain-ops/blob/main/Screenshot%202026-03-18%20153911.png)
 
 ---
 
