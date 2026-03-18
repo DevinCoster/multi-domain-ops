@@ -2,7 +2,7 @@
 
 A real-time multi-domain military operations simulation tool with an Anduril Lattice-inspired interface. Place forces, configure behaviors, launch simulations, and watch engagements unfold live across air, sea, land, and cyber domains.
 
-![SYNAPSE UI](docs/screenshot.png)
+![SYNAPSE UI](https://drive.google.com/file/d/1ge_KT7XcMM0cattfQtS_IV3L3RjWLjQs/view?usp=sharing)
 
 ---
 
@@ -135,13 +135,7 @@ multi-domain-ops/
 
 ## Design
 
-The UI is inspired by [Anduril's Lattice](https://www.anduril.com/lattice/) command-and-control platform:
-
-- Near-black backgrounds (`#080808` void, `#111111` base)
-- Teal accent (`#00bfdb`) for friendly/Blue Force elements
-- Orange (`#ff7820`) for hostile/Red Force elements
-- Green (`#1eb878`) for status indicators
-- Inter typeface, tight spacing, monospace data readouts
+The UI is inspired by [Anduril's Lattice](https://www.anduril.com/lattice/) command-and-control platform
 
 ---
 
